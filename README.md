@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website - Aditya Kumar Gautam
 
 A beautiful, modern, and responsive portfolio website built with **Next.js 16**, **React 19**, **TypeScript**, and **Tailwind CSS**.
@@ -222,3 +223,6 @@ All known issues have been fixed:
 ---
 
 **Ready for Production Deployment** 🚀
+=======
+# Portfolio-Website
+>>>>>>> 9b8b27ab4f14d7421bd1598132fbe53aeee0bc3a
